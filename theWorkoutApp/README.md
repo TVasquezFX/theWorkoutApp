@@ -8,4 +8,4 @@ How users can get started with the project? They can get started by typing in th
 
 Where users can get help with your project? They can get help for this project from the Coding Bootcamp at UT.
 
-Who maintains and contributes to the project? I were four people that contributed to this project. They will assist with maintaining this program until end of semester.
+Who maintains and contributes to the project? I was one of four people that contributed to this project. They will assist with maintaining this program until end of semester.
